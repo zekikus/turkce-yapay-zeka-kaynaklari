@@ -270,6 +270,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
 * [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savas Y)
 * [A finite-state morphological analyzer for Turkish](https://github.com/coltekin/TRmorph) (Çağrı Çöltekin)
+* [Keras ile Türkçe Anlam Analizi(Olumlu - Olumsuz)](https://github.com/zekikus/Turkce-Anlam-Analizi) (Zeki Kuş)
 
 ### Arama Algoritmaları
 * [C ile Ağaçlarda Bilgisiz/Bilmeden Arama Algoritmaları](https://github.com/Enes1313/Uninformed-Search-Strategies)  (Enes AYDIN)
@@ -277,6 +278,9 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Bilgisayarlı Görü
 * [CNN ile Görüntü Sınıflandırma](https://github.com/mesutpiskin/CaffeClassification) (Mesut Pişkin)
 * [Gerçek Zamanlı Cinsiyet Tespiti](https://github.com/mesutpiskin/GenderClassification) (Mesut Pişkin)
+* [CNN(Tensorflow) ile CIFAR10 Veri Setinin Sınıflandırılması ve Parametre Analizi](https://github.com/zekikus/Tensorflow-CNN-with-CIFAR10-Dataset) (Zeki Kuş)
+* [CNN ile FashionMNIST Veri Setinin Sınıflandırılması](https://github.com/zekikus/Tensorflow-CNN-with-FashionMNIST-Dataset) (Zeki Kuş)
+* [CNN(Keras) ile CIFAR10 Veri Setinin Sınıflandırılması](https://github.com/zekikus/Keras-CNN-with-CIFAR10-Dataset) (Zeki Kuş)
 
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
